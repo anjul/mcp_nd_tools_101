@@ -1,3 +1,9 @@
+---
+title: MCP Tools 101
+layout: default
+permalink: /mcp-tools-101/
+---
+
 # 🚀 Ultimate Guide to Model Context Protocol (MCP) for SE & ML Engineers
 
 ## 📌 1. What is MCP? (The Core Concept)
